@@ -44,7 +44,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBRMNIy1i5CRIyK5njclQvyiVXjYtobyfA',
+    apiKey: 'key',
     appId: '1:1016374847819:web:f600e42f23df51d0a560ce',
     messagingSenderId: '1016374847819',
     projectId: 'bmw-flutter',
@@ -54,7 +54,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBg8B9Cf-JlwQbvPTVoDjG1qPiB6mH1ENQ',
+    apiKey: 'key',
     appId: '1:1016374847819:android:dc7621b2577a4d5fa560ce',
     messagingSenderId: '1016374847819',
     projectId: 'bmw-flutter',
@@ -62,7 +62,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCFwnDg-bXswAb2TJARlNZMt4qxKtmM1Hw',
+    apiKey: 'key',
     appId: '1:1016374847819:ios:2332e917a3cde788a560ce',
     messagingSenderId: '1016374847819',
     projectId: 'bmw-flutter',
@@ -73,7 +73,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCFwnDg-bXswAb2TJARlNZMt4qxKtmM1Hw',
+    apiKey: 'key',
     appId: '1:1016374847819:ios:7ea87d550663c525a560ce',
     messagingSenderId: '1016374847819',
     projectId: 'bmw-flutter',
